@@ -4,7 +4,7 @@ Google Play Store  was launched on march 6,2012.Google play store is official pr
 
 The Google Play Store Review Analysis EDA (Exploratory Data Analysis) project is a data analysis project the aims to gain insights and understand patterns from the reviews of apps on the Google Play Store.The project involves conducting exploratory data analysis techniques to analyze a dataset of reviews,extract meaningful information and visualize the findings.
 
-The main objectives of the projectmay include:
+The main objectives of the project may include:
 
 
 *   **Data Collection**:-Gathering a dataset of reviews from the Google Play Store,which may involve web scraping or accessing a pre-existing  dataset.
