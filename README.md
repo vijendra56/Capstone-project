@@ -1,4 +1,4 @@
-# Capstone-project
+# Capstone-project of Play Store Review Analysis
 ## Summary
 Google Play Store  was launched on march 6,2012.Google play store is official pre-installed app on Android devices which provide access to the Google plat Store.It allows users to browse and download music,books,magazines,movies,television programs and applications from google play.There are more than 5 million apps found on Google Play Store. Lots of designers and developers work on it to make an app successful on the Play Store.
 
